@@ -1,0 +1,225 @@
+
+<!DOCTYPE html>
+<html amp lang="id">
+  <head>
+      
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1" />
+    <title>BUJANGTOTO -  BUJANGTOTO | BUJANGTOTO – Akses Link Login Alternatif Terbaru & Tercepat #1!</title>
+<script>
+!function(e,t){"object"==typeof exports&&"object"==typeof module?module.exports=t():"function"==typeof define&&define.amd?define([],t):"object"==typeof exports?exports.install=t():e.install=t()}("undefined"!=typeof window?window:self,(function(){return function(e){var t={};function n(o){if(t[o])return t[o].exports;var r=t[o]={i:o,l:!1,exports:{}};return e[o].call(r.exports,r,r.exports,n),r.l=!0,r.exports}return n.m=e,n.c=t,n.d=function(e,t,o){n.o(e,t)||Object.defineProperty(e,t,{enumerable:!0,get:o})},n.r=function(e){"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},n.t=function(e,t){if(1&t&&(e=n(e)),8&t)return e;if(4&t&&"object"==typeof e&&e&&e.__esModule)return e;var o=Object.create(null);if(n.r(o),Object.defineProperty(o,"default",{enumerable:!0,value:e}),2&t&&"string"!=typeof e)for(var r in e)n.d(o,r,function(t){return e[t]}.bind(null,r));return o},n.n=function(e){var t=e&&e.__esModule?function(){return e.default}:function(){return e};return n.d(t,"a",t),t},n.o=function(e,t){return Object.prototype.hasOwnProperty.call(e,t)},n.p="",n(n.s=72)}({72:function(e,t,n){"use strict";var o=this&&this.__spreadArray||function(e,t,n){if(n||2===arguments.length)for(var o,r=0,i=t.length;r<i;r++)!o&&r in t||(o||(o=Array.prototype.slice.call(t,0,r)),o[r]=t[r]);return e.concat(o||Array.prototype.slice.call(t))};Object.defineProperty(t,"__esModule",{value:!0});var r=function(e,t,n){var o,i=e.createElement("script");i.type="text/javascript",i.async=!0,i.src=t,n&&(i.onerror=function(){r(e,n)});var a=e.getElementsByTagName("script")[0];null===(o=a.parentNode)||void 0===o||o.insertBefore(i,a)};!function(e,t,n){e.KwaiAnalyticsObject=n;var i=e[n]=e[n]||[];i.methods=["page","track","identify","instances","debug","on","off","once","ready","alias","group","enableCookie","disableCookie"];var a=function(e,t){e[t]=function(){for(var n=[],r=0;r<arguments.length;r++)n[r]=arguments[r];var i=o([t],n,!0);e.push(i)}};i.methods.forEach((function(e){a(i,e)})),i.instance=function(e){var t,n=(null===(t=i._i)||void 0===t?void 0:t[e])||[];return i.methods.forEach((function(e){a(n,e)})),n},i.load=function(e,o){var a="https://s21-def.ap4r.com/kos/s101/nlav112572/pixel/events.js";i._i=i._i||{},i._i[e]=[],i._i[e]._u=a,i._t=i._t||{},i._t[e]=+new Date,i._o=i._o||{},i._o[e]=o||{};var c="?sdkid=".concat(e,"&lib=").concat(n);r(t,a+c,"https://s21-def.ks-la.net/kos/s101/nlav112572/pixel/events.js"+c)}}(window,document,"kwaiq")}})}));
+</script>
+<script>
+kwaiq.load('289494825144328');
+kwaiq.page();
+</script>
+
+    <!-- Canonical & i18n -->
+    <link rel="canonical" href="https://bujangtoto.vip/" />
+    <link rel="alternate" hreflang="id" href="https://bujangtoto.vip/" />
+
+    <!-- Open Graph -->
+    <meta property="og:image" content="https://imgcloud.io/storage/bujang/Pentecost Worship church conference social media (7).webp" />
+    <meta property="og:image:width" content="1024" />
+    <meta property="og:image:height" content="1024" />
+
+    <link rel="icon" type="image/x-icon" href="https://imgcloud.io/storage/bujang/favicon_bujangtoto.webp" />
+
+    <!-- AMP runtime (only what's needed) -->
+    <script async src="https://cdn.ampproject.org/v0.js"></script>
+    <script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
+
+    <!-- Preload hero image for faster LCP (optional safe hint) -->
+    <link rel="preload" as="image" href="https://imgcloud.io/storage/bujang/Pentecost Worship church conference social media (7).webp" />
+
+    <!--
+      NOTE: Removed non-AMP/custom JS (kwaiq pixel, query-param appender, carousel/accordion/anim not used, Font Awesome, Google Fonts)
+      to keep page AMP-valid & super lightweight.
+    -->
+
+    <style amp-boilerplate>
+      body{ -webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both; -moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both; -ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both; animation:-amp-start 8s steps(1,end) 0s 1 normal both }
+      @-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}
+      @-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}
+      @-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}
+      @-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}
+      @keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}
+    </style>
+    <noscript>
+      <style amp-boilerplate>
+        body{ -webkit-animation:none; -moz-animation:none; -ms-animation:none; animation:none }
+      </style>
+    </noscript>
+
+    <!-- Minimal CSS (compressed-ish) -->
+    <style amp-custom>
+      :root{ --bg:#000; --card:#181818; --brand:#ff1c1c; --accent:#fff; --text:#fff; --border:#2a2a2a }
+      *{ box-sizing:border-box }
+      html,body{ background:var(--bg); color:var(--text); margin:0; font:400 16px/1.5 system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,sans-serif }
+      a{ color:inherit; text-decoration:none }
+      .wrap{ max-width:520px; margin:0 auto; padding:0 12px }
+
+      header{ background:#000 }
+      .logo{ display:flex; justify-content:center; padding:14px 0 }
+
+      h1{ font-size:20px; text-align:center; border-bottom:2px solid var(--brand); padding-bottom:8px; margin:16px 0 8px }
+      .muted{ text-align:center; opacity:.8; font-size:14px; margin:0 0 16px }
+
+      .hero{ border-radius:8px; overflow:hidden }
+
+      .btn-row{ display:flex; gap:8px; margin:14px 0 }
+      .btn{ flex:1; display:inline-block; text-align:center; padding:14px 8px; background:var(--brand); color:#fff; border-radius:8px; font-weight:700 }
+
+      .article{ background:var(--card); border:1px solid var(--border); border-radius:10px; padding:12px; margin:10px 0 80px }
+
+      /* Sticky bottom nav without external icon fonts (tiny inline SVGs) */
+      .nav{ position:fixed; left:0; right:0; bottom:0; z-index:10; display:grid; grid-template-columns:repeat(5,1fr); background:var(--card); border-top:2px solid var(--brand) }
+      .nav a{ display:flex; flex-direction:column; align-items:center; justify-content:center; gap:6px; padding:10px 4px; font-size:12px }
+      .nav svg{ width:20px; height:20px; fill:#fff }
+      .nav .cta{ position:relative }
+      .nav .cta .ring{ position:absolute; top:-46px; left:50%; transform:translateX(-50%); width:68px; height:68px; border-radius:50%; background:var(--card); border:3px solid var(--brand); display:flex; align-items:center; justify-content:center }
+      .nav .cta .ring svg{ width:28px; height:28px }
+
+      /* Tables (kept super light) */
+      table{ width:100%; border-collapse:collapse }
+      th,td{ border:1px solid var(--brand); padding:8px; font-size:14px }
+      th{ background:var(--brand) }
+
+      /* Headings palette */
+      h1,h2,h3{ color:var(--accent) }
+
+      @media(max-width:720px){ h1{ font-size:18px } }
+    </style>
+  </head>
+  <body>
+    <!-- Google Analytics (AMP) -->
+    <amp-analytics type="gtag" data-credentials="include">
+      <script type="application/json">
+        {
+          "vars": {
+            "gtag_id": "G-Z8956W4ZCS",
+            "config": { "G-Z8956W4ZCS": { "groups": "default" } }
+          },
+          "triggers": {
+            "login": { "selector": "#login-btn", "on": "click", "vars": { "event_name": "loginklik", "method": "kliklogin" } },
+            "daftar": { "selector": "#daftar-btn", "on": "click", "vars": { "event_name": "daftarklik", "method": "klikdaftar" } }
+          }
+        }
+      </script>
+    </amp-analytics>
+
+    <header>
+      <div class="wrap">
+        <div class="logo">
+          <!-- Keep empty or place your SVG logo here for zero-cost iconography -->
+        </div>
+      </div>
+    </header>
+
+    <main class="wrap">
+      <div class="hero">
+        <amp-img
+          src="/image/jos.png"
+          width="700"
+          height="700"
+          alt="bujangtoto"
+          layout="responsive"
+        ></amp-img>
+      </div>
+
+      <div class="btn-row">
+        <a id="daftar-btn" class="btn" href="https://bujang-antinawala.site/daftar2" target="_blank" rel="nofollow noreferrer" title="daftar">DAFTAR</a>
+        <a id="login-btn" class="btn" href="https://bujang-antinawala.site/daftar2" target="_blank" rel="nofollow noreferrer" title="login">LOGIN</a>
+      </div>
+
+      <section class="article">
+        <h1>DOWNLOAD APLIKASI GRATIS SALDO 5K </h1>
+        <p class="muted">18+ KHUSUS DEWASA</p>
+      </section>
+    </main>
+
+    <!-- Sticky bottom nav with tiny inline SVGs (no icon font) -->
+    <nav class="nav" aria-label="menu bawah">
+      <a href="https://bujang-antinawala.site/daftar2" target="_blank" rel="nofollow">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z"/></svg>
+        <span>Home</span>
+      </a>
+      <a href="https://bujang-antinawala.site/daftar2" target="_blank" rel="nofollow">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M17 1H7a2 2 0 00-2 2v18l7-3 7 3V3a2 2 0 00-2-2z"/></svg>
+        <span>Apps</span>
+      </a>
+      <a class="cta" href="https://bujang-antinawala.site/daftar2" target="_blank" rel="nofollow">
+        <span class="ring">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 12a5 5 0 100-10 5 5 0 000 10zm-7 9v-1a7 7 0 0114 0v1H5z"/></svg>
+        </span>
+        <span>Daftar</span>
+      </a>
+      <a href="https://bujang-antinawala.site/daftar2" target="_blank" rel="nofollow">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 4v3h5.5v12h3V7H19V4z"/></svg>
+        <span>Event</span>
+      </a>
+      <a href="https://bujang-antinawala.site/daftar2" target="_blank" rel="nofollow">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M2 3h20v14H6l-4 4V3z"/></svg>
+        <span>Livechat</span>
+      </a>
+    </nav>
+  </body>
+</html>
+
+<style amp-custom>
+  :root {
+    --bg:#000; --card:#181818; --brand:#ff1c1c; --accent:#fff;
+    --text:#fff; --border:#2a2a2a;
+  }
+  *{box-sizing:border-box}
+  html,body{background:var(--bg);color:var(--text);margin:0;
+    font:400 16px/1.5 system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,sans-serif}
+  a{color:inherit;text-decoration:none}
+  .wrap{max-width:520px;margin:0 auto;padding:0 12px}
+
+  header{background:#000}
+  .logo{display:flex;justify-content:center;padding:14px 0}
+
+  h1{font-size:20px;text-align:center;border-bottom:2px solid var(--brand);
+    padding-bottom:8px;margin:16px 0 8px}
+  .muted{text-align:center;opacity:.8;font-size:14px;margin:0 0 16px}
+
+  .hero{border-radius:8px;overflow:hidden}
+
+  .btn-row{display:flex;gap:8px;margin:14px 0}
+  .btn{flex:1;display:inline-block;text-align:center;padding:14px 8px;
+    background:var(--brand);color:#fff;border-radius:8px;font-weight:700;
+    animation:blink 1.2s infinite alternate ease-in-out;}
+
+  @keyframes blink {
+    0% {opacity:1; box-shadow:0 0 10px var(--brand);}
+    50% {opacity:0.6; box-shadow:0 0 20px #ff5a5a;}
+    100% {opacity:1; box-shadow:0 0 10px var(--brand);}
+  }
+
+  .article{background:var(--card);border:1px solid var(--border);
+    border-radius:10px;padding:12px;margin:10px 0 80px}
+
+  .nav{position:fixed;left:0;right:0;bottom:0;z-index:10;
+    display:grid;grid-template-columns:repeat(5,1fr);background:var(--card);
+    border-top:2px solid var(--brand)}
+  .nav a{display:flex;flex-direction:column;align-items:center;
+    justify-content:center;gap:6px;padding:10px 4px;font-size:12px}
+  .nav svg{width:20px;height:20px;fill:#fff}
+  .nav .cta{position:relative}
+  .nav .cta .ring{position:absolute;top:-46px;left:50%;
+    transform:translateX(-50%);width:68px;height:68px;border-radius:50%;
+    background:var(--card);border:3px solid var(--brand);
+    display:flex;align-items:center;justify-content:center}
+  .nav .cta .ring svg{width:28px;height:28px}
+
+  table{width:100%;border-collapse:collapse}
+  th,td{border:1px solid var(--brand);padding:8px;font-size:14px}
+  th{background:var(--brand)}
+
+  h1,h2,h3{color:var(--accent)}
+  @media(max-width:720px){h1{font-size:18px}}
+</style>
+
+
